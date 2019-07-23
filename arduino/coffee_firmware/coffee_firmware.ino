@@ -8,7 +8,7 @@
 //naming Arduino pin
 int ONOFF = 2;
 int x1short = 3; // button for 1 short coffee
-int x2short = 4; // button for 1 short coffee
+int x2short = 4; // button for 2 short coffee
 int clean = 5; // button clean
 int vape = 6; // button vape
 int x1long = 7; // button for 1 long coffee
